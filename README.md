@@ -16,7 +16,9 @@ A technical proof of concept demonstrating how to build web browser-based deskto
 3. It will open automatically in your default browser ready to run. Zero installations, zero server dependencies!
 
 ## 📦 Looking for the full optimized version?
-If you are a professional or freelancer looking for the commercial-grade tool featuring advanced design, automated duplicate cleaning, interactive charts, and priority support, you can purchase the definitive **CleanSprint Dashboard** version on our [Gumroad Store]([ENLACE_GUMROAD]).
+If you are a professional or freelancer looking for the commercial-grade tool featuring advanced design, automated duplicate cleaning, interactive charts, and priority support, you can purchase the definitive **CleanSprint Dashboard** below:
+
+👉 **[Download CleanSprint Dashboard on Gumroad](https://bobservice.gumroad.com/l/cleansprint_dashboard)**.
 
 ## 📄 License
 This demonstration project is distributed under the **MIT License**. Check the `LICENSE` file for more details.
